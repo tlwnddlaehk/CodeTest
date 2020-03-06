@@ -1,29 +1,19 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+안녕하세요. 우노술루션입니다.
+아래 간단한 프로그램을 작성하신후 result/본인영문이니셜_전화번호뒤4자리로 PR(Pull Request)하신후 연락주세요.
+문제에 관한 질문이나 어려움이 있으시면 연락주세요.
+git 사용이 익숙하지 않으신경우, 메일이나 또는 본인이 익숙한 방법으로 회신주셔도 무방합니다.
 
-### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## 요약정보
+table.csv 파일은 우리회사 개발자의 정보가 있습니다.
+첫라인은 해당 컬럼에 대한 정보이며, 이름/성별/나이/연봉으로 구성되어 있습니다.
+해당 파일을 읽어들여 아래 2가지 결과를 출력해주세요.
+언어는 어떤것을 사용해도 무방하나, 소스와 컴파일방법을 알려주세요.
 
-### How do I get set up? ###
+### 문제1
+우리 회사에서 연봉이 가장 높은사람의 이름을 출력해주세요.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### 문제2
+우리 회사 30,40대(age between 30 and 49) 직원의 평균 연봉을 출력해주세요.
