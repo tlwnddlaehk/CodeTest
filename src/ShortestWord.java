@@ -12,15 +12,10 @@ public class ShortestWord {
         String strArray[] = s.split(" ");
 
         //비교할 문자열
-        int length = 0;
+        int length = strArray[0].length();
         for (int i=0; i<strArray.length; i++) {
-//            length = strArray[i].length();
             System.out.println("배열 내 문자열의 갯수"+strArray[i].length());
             System.out.println("비교할 문자열"+length);
-            if (i==0) {
-                length = strArray[i].length();
-            }
-
             if (length > strArray[i].length()) {
                 length = strArray[i].length();
             }
