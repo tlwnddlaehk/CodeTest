@@ -1,5 +1,8 @@
 # Project exclude paths
 /out/
-# ide setting
-/.idea/
-Algorithm.iml
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.iprㄴ
