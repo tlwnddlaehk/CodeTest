@@ -5,4 +5,5 @@
 .idea
 *.iws
 *.iml
-*.iprㄴ
+*.ipr
+/.idea/
